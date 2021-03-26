@@ -1,0 +1,16 @@
+{
+    "name": "graillus/dependabot-test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robin Graillon",
+            "email": "robin.graillon@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*",
+        "symfony/console": "^4.4"
+    }
+}

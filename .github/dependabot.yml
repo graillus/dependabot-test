@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "composer"
+    directory: "/composer-with-amqp"
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "composer"
+    directory: "/composer-without-amqp"
+    schedule:
+      interval: "daily"
