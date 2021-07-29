@@ -12,6 +12,6 @@
         "php": ">=7.4",
         "ext-amqp": "*",
         "ext-json": "*",
-        "symfony/console": "^4.4"
+        "symfony/console": "^5.3"
     }
 }
